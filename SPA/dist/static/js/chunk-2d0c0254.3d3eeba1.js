@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c0254"],{4112:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("h1",[n._v("Vaccine Component")])},o=[],a={name:"DoctorDepartment"},r=a,u=t("2877"),l=Object(u["a"])(r,c,o,!1,null,null,null);e["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0c0254.3d3eeba1.js.map
